@@ -4,7 +4,7 @@ A small C++17 project that models planetary systems with Newtonian gravity. It i
 
 I built this during my BSc Mathematics at Queen Mary University of London, as part of the *Numerical Computing with C and C++* module.
 
-![TRAPPIST-1 orbits](plots/trappist_orbits.png)
+![TRAPPIST-1 orbits](plots/Trappist%20Graph%20plotted.png)
 
 ## What's in here
 
