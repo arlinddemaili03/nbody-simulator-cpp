@@ -1,0 +1,7 @@
+*.dat
+trappist
+sun_earth_jupiter
+monte_carlo_habitability
+test_planet
+test_system
+*.o
